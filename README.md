@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - ![GitHub User's stars](https://img.shields.io/github/stars/sharpninja?style=social) ![GitHub followers](https://img.shields.io/github/followers/sharpninja?style=social)
 - ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/thesharpestninja?style=social)
-- ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5639935)
+- ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5639935?style=social)
 
 ## 📫 Contact
 
