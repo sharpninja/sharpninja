@@ -1,14 +1,5 @@
 # The Sharp Ninja
 
-## Publications
-
-| Platform | Title |
-|---|---|
-| Medium | [The Unpopular Opinions of a Senior Developer](https://medium.com/the-unpopular-opinions-of-a-senior-developer) |
-| DEV.TO | [Feed](https://dev.to/feed/sharpninja) |
-| Code Project | [Feed](https://www.codeproject.com/WebServices/ArticleRSS.aspx?amid=10853267) |
-| Toolbox.com | [Profile](https://www.toolbox.com/user/about/PaytonByrd/) |
-
 <!--
 **sharpninja/sharpninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,12 +36,16 @@ Here are some ideas to get you started:
 |------|-------|---------|--------|---------|-----------|
 | ArchMastery.Reflection.Core |![GitHub Repo stars](https://img.shields.io/github/stars/ArchMastery/ArchMastery.Reflection.Core)|![Dependent repos (via libraries.io)](https://img.shields.io/librariesio/dependent-repos/nuget/ArchMastery.Reflector.Core)|![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ArchMastery/ArchMastery.Reflection.Core/.NET)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/ArchMastery/ArchMastery.Reflection.Core)|![Nuget](https://img.shields.io/nuget/dt/ArchMastery.Reflector.Core?label=nuget&logo=nuget)|
 | ArchMastery.Reflection.PlantUml |![GitHub Repo stars](https://img.shields.io/github/stars/ArchMastery/ArchMastery.Reflection.PlantUml)|![Dependent repos (via libraries.io)](https://img.shields.io/librariesio/dependent-repos/nuget/ArchMastery.Reflector.PlantUml)|![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ArchMastery/ArchMastery.Reflection.PlantUml/.NET)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/ArchMastery/ArchMastery.Reflection.PlantUml)|![Nuget](https://img.shields.io/nuget/dt/ArchMastery.Reflector.PlantUml?label=nuget&logo=nuget)|
-| ArchMastery.Desktop|![GitHub Repo stars](https://img.shields.io/github/stars/ArchMastery/
-ArchMastery.Desktop)|![Dependent repos (via libraries.io)](https://img.shields.io/librariesio/dependent-repos/nuget/
-ArchMastery.Desktop)|![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ArchMastery/
-ArchMastery.Desktop/.NET)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/ArchMastery/
-ArchMastery.Desktop)|![Nuget](https://img.shields.io/nuget/dt/
-ArchMastery.Desktop?label=nuget&logo=nuget)|
+| ArchMastery.Desktop|![GitHub Repo stars](https://img.shields.io/github/stars/ArchMastery/ArchMastery.Desktop)|![Dependent repos (via libraries.io)](https://img.shields.io/librariesio/dependent-repos/nuget/ArchMastery.Desktop)|![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ArchMastery/ArchMastery.Desktop/.NET)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/ArchMastery/ArchMastery.Desktop)|![Nuget](https://img.shields.io/nuget/dt/ArchMastery.Desktop?label=nuget&logo=nuget)|
+
+## Publications
+
+| Platform | Title |
+|---|---|
+| Medium | [The Unpopular Opinions of a Senior Developer](https://medium.com/the-unpopular-opinions-of-a-senior-developer) |
+| DEV.TO | [Feed](https://dev.to/feed/sharpninja) |
+| Code Project | [Feed](https://www.codeproject.com/WebServices/ArticleRSS.aspx?amid=10853267) |
+| Toolbox.com | [Profile](https://www.toolbox.com/user/about/PaytonByrd/) |
 
 
 ## Social
