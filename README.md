@@ -2,6 +2,13 @@
 
 ## Publications
 
+| Platform | Title |
+|---|---|
+| Medium | [The Unpopular Opinions of a Senior Developer](https://medium.com/the-unpopular-opinions-of-a-senior-developer) |
+| DEV.TO | [Feed](https://dev.to/feed/sharpninja) |
+| Code Project | [Feed](https://www.codeproject.com/WebServices/ArticleRSS.aspx?amid=10853267) |
+| Toolbox.com | [Profile](https://www.toolbox.com/user/about/PaytonByrd/) |
+
 <!--
 **sharpninja/sharpninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
