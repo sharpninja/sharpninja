@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | Name | Stars | Used By | Status | Up2Date | Downloads |
 |------|-------|---------|--------|---------|-----------|
 | GPS.SimpleThreading|![GitHub Repo stars](https://img.shields.io/github/stars/gatewayprogrammingschool/SimpleThreading)|![Dependent repos (via libraries.io)](https://img.shields.io/librariesio/dependent-repos/nuget/GPS.SimpleThreading)|![GitHub Workflow Status](https://img.shields.io/github/workflow/status/gatewayprogrammingschool/SimpleThreading/CI)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/gatewayprogrammingschool/SimpleThreading)|![Nuget](https://img.shields.io/nuget/dt/GPS.SimpleThreading?label=nuget&logo=nuget)|
+| Snippets|![GitHub Repo stars](https://img.shields.io/github/stars/sharpninja/Snippets)| |![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sharpninja/Snippets/CI)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/sharpninja/Snippets)| |
 
 ## Social
 
