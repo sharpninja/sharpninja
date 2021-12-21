@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## SharpNinja Projects
 
-| Name | Stars | Used By | Status | Up2Date | Downloads |
-|------|-------|---------|--------|---------|-----------|
-| [Snippets](https://github.com./sharpninja/Snippets) |![GitHub Repo stars](https://img.shields.io/github/stars/sharpninja/Snippets)| |![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sharpninja/Snippets/CreateRelease)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/sharpninja/Snippets)| |
+| Name | Stars | Used By | Status | Up2Date | Downloads | Articles |
+|------|-------|---------|--------|---------|-----------|----------|
+| [Snippets](https://github.com./sharpninja/Snippets) |![GitHub Repo stars](https://img.shields.io/github/stars/sharpninja/Snippets)| |![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sharpninja/Snippets/CreateRelease)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/sharpninja/Snippets)| | [PowerShell Snippet System](https://dev.to/sharpninja/powershell-snippet-system-4bk3) |
 
 # Gateway Programming School Projects
 
