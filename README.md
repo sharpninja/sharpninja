@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | Name | Stars | Used By | Status | Up2Date | Downloads |
 |------|-------|---------|--------|---------|-----------|
-| [Snippets](/sharpninja/Snippets) |![GitHub Repo stars](https://img.shields.io/github/stars/sharpninja/Snippets)| |![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sharpninja/Snippets/CI)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/sharpninja/Snippets)| |
+| [Snippets](https://github.com./sharpninja/Snippets) |![GitHub Repo stars](https://img.shields.io/github/stars/sharpninja/Snippets)| |![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sharpninja/Snippets/CI)|![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/sharpninja/Snippets)| |
 
 # Gateway Programming School Projects
 
