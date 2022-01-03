@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/sharpninja)
 [![@SharpNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpninja&theme=dark)](https://github.com/sharpninja/github-readme-stats&theme=dark)
 
 ## SharpNinja Projects
