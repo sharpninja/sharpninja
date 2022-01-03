@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@SharpNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpninja)](https://github.com/sharpninja/github-readme-stats)
+[![@SharpNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpninja)](https://github.com/sharpninja/github-readme-stats&theme=dark)
 
 ## SharpNinja Projects
 
