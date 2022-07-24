@@ -50,6 +50,14 @@ Here are some ideas to get you started:
 | Code Project | [Feed](https://www.codeproject.com/WebServices/ArticleRSS.aspx?amid=10853267) |
 | Toolbox.com | [Profile](https://www.toolbox.com/user/about/PaytonByrd/) |
 
+### Deaths from COVID-19 Ages 12-17 and Deaths from Vaccine Ages 6 through 17
+
+| Age   | Vaccinated | Unvaccinated | Citation
+| :-:   | :-: | :-: | :--
+| 12-17 | 15 | 53 | (DHHS, VAERS, 2022)
+| 6-17  | 51 | - | (CDC, 2022)
+|       | **66** | **53** | **Total**
+
 
 ## Social
 
