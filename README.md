@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 | Code Project | [Feed](https://www.codeproject.com/WebServices/ArticleRSS.aspx?amid=10853267) |
 | Toolbox.com | [Profile](https://www.toolbox.com/user/about/PaytonByrd/) |
 
-    - Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. (2022). _A global database of COVID-19 vaccinations._ Nat Hum Behav. https://doi.org/10.1038/s41562-021-01122-8.
-    - United States Department of Health and Human Services (DHHS), Public Health Service (PHS), Centers for Disease Control (CDC) / Food and Drug Administration (FDA), Vaccine Adverse Event Reporting System (VAERS), CDC WONDER On-line Database. (07/15/2022) Accessed at http://wonder.cdc.gov/vaers.html on Jul 23, 2022.
-    - Centers for Disease Control and Prevention, COVID-19 Response. Rates of COVID-19 Cases or Deaths by Age Group and Vaccination Status Public Use Data (version date: July 15, 2022). Accessed at https://data.cdc.gov/api/views/INLINE/rows.csv?accessType=DOWNLOAD&bom=true&format=true on July 23, 2022.
-    - Dellatto, M., 2022. Only 5% Of Worshippers Say Religious Leaders Discouraged Covid Vaccines — Despite Growing Interest In Religious Exemptions. [online] Forbes. Available at: https://www.forbes.com/sites/marisadellatto/2021/10/15/only-5-of-worshippers-say-religious-leaders-discouraged-covid-vaccines---despite-growing-interest-in-religious-exemptions/?sh=359114305eb1 [Accessed 24 July 2022].
-    - Howard, A., 2022. Rabbi: Get vaccinated, but listen to others with respect. [online] Jhvonline.com. Available at: https://jhvonline.com/rabbi-get-vaccinated-but-listen-to-others-with-respect-p29684-89.htm [Accessed 24 July 2022].
+- Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. (2022). _A global database of COVID-19 vaccinations._ Nat Hum Behav. https://doi.org/10.1038/s41562-021-01122-8.
+- United States Department of Health and Human Services (DHHS), Public Health Service (PHS), Centers for Disease Control (CDC) / Food and Drug Administration (FDA), Vaccine Adverse Event Reporting System (VAERS), CDC WONDER On-line Database. (07/15/2022) Accessed at http://wonder.cdc.gov/vaers.html on Jul 23, 2022.
+- Centers for Disease Control and Prevention, COVID-19 Response. Rates of COVID-19 Cases or Deaths by Age Group and Vaccination Status Public Use Data (version date: July 15, 2022). Accessed at https://data.cdc.gov/api/views/INLINE/rows.csv?accessType=DOWNLOAD&bom=true&format=true on July 23, 2022.
+- Dellatto, M., 2022. Only 5% Of Worshippers Say Religious Leaders Discouraged Covid Vaccines — Despite Growing Interest In Religious Exemptions. [online] Forbes. Available at: https://www.forbes.com/sites/marisadellatto/2021/10/15/only-5-of-worshippers-say-religious-leaders-discouraged-covid-vaccines---despite-growing-interest-in-religious-exemptions/?sh=359114305eb1 [Accessed 24 July 2022].
+- Howard, A., 2022. Rabbi: Get vaccinated, but listen to others with respect. [online] Jhvonline.com. Available at: https://jhvonline.com/rabbi-get-vaccinated-but-listen-to-others-with-respect-p29684-89.htm [Accessed 24 July 2022].
 
 
 ## Social
